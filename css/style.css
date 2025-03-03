@@ -51,3 +51,9 @@ thead{
     padding-left: 10px;
     color: white;
 }
+
+.td-mod{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+}
