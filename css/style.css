@@ -1,0 +1,38 @@
+
+header{
+    background-color: #4ea1ff;
+    background-image: url(../img/pattern.png);
+    background-size: 350px;
+    margin: 0px;
+}
+
+.logo{
+    width: 200px;
+    margin-top: 50px;
+}
+
+
+.link-booleaner{
+    color: #5dadc9;
+    text-decoration: none;
+}
+
+address{
+    color: grey;
+}
+
+span{
+    background-color: yellow;
+}
+
+table{
+   width: 100%;
+}
+
+thead{
+    background-color: #4ea1ff;
+}
+
+.tr{
+    background-color: aqua;
+}
