@@ -15,6 +15,11 @@ header{
     margin-top: 50px;
 }
 
+h1{
+    font-size: 45px;
+    margin-bottom: 0;
+}
+
 
 .link-booleaner{
     color: #5dadc9;
@@ -23,18 +28,32 @@ header{
 
 address{
     color: grey;
+    font-style: normal;
+}
+
+time{
+    color: grey;
 }
 
 span{
     background-color: yellow;
 }
 
+ul{
+    list-style-position: inside;
+}
+
 table{
    width: 100%;
+   border-collapse: collapse;
 }
 
 thead{
     background-color: #1cabe0;
+}
+
+th{
+    text-align: left;
 }
 
 .tr{
@@ -43,6 +62,7 @@ thead{
 
 .div-1{
     background-image: url(../img/monitor.jpg);
+    background-size: cover;
     width: 250px ;
     padding-bottom: 100px;
     padding-left: 10px;
@@ -50,6 +70,7 @@ thead{
 }
 .div-2{
     background-image: url(../img/graph.jpg);
+    background-size: cover;
     width: 250px ;
     padding-bottom: 100px;
     padding-left: 10px;
